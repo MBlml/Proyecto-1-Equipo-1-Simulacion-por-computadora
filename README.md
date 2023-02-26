@@ -1,7 +1,7 @@
 # Proyecto-1-Equipo-1-Simulacion-por-computadora
 ## Integrantes:
 - Barajas Gomez Juan Manuel 216557005
--
+- Barba Palacios Orlando Agustín
 -
 -
 
